@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Node Advanced, Go, and Web3 things**
 
-- 👨‍💻 All of my projects are available at [https://ubed.dev](https://ubed.dev)
+- 👨‍💻 My personal website [https://ubed.dev](https://ubed.dev)
 
-- 📝 I regularly write articles on [https://blog.ubed.dev](https://blog.ubed.dev)
+- 📝 I regularly (not often either) write articles on [https://blog.ubed.dev](https://blog.ubed.dev)
 
 - 📫 How to reach me **ubed.dev@gmail.com**
 
