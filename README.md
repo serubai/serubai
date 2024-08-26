@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ubaidillah Hakim Fadly</h1>
-<h3 align="center">A passionate backend developer from Indonesia 🇲🇨</h3>
+<h3 align="center">An ordinary backend developer from Indonesia 🇲🇨</h3>
 
 - 🌱 I’m currently learning **Node Advanced, Go, and Web3 things**
 
